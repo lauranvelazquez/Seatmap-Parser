@@ -6,12 +6,12 @@ The output of the program is a file with this format: FILENAME_parsed.json
 
 # Moduls
 
-• seat_reg: class 'Seat'.
-• seatmap_parser: Main script.
-• json_file: It receives a list of records and translates them to json format. Returns a .json file.
-• xml_file: It receives an .xml file and returns a list of records.
+	• seat_reg: class 'Seat'.
+	• seatmap_parser: Main script.
+	• json_file: It receives a list of records and translates them to json format. Returns a .json file.
+	• xml_file: It receives an .xml file and returns a list of records.
 
 # Files
 
-• seatmap1.xml, seatmap2.xml (input)
-• seatmap1_parsed.json, seatmap2_parsed.json (output)
+	• seatmap1.xml, seatmap2.xml (input)
+	• seatmap1_parsed.json, seatmap2_parsed.json (output)
