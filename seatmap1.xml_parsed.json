@@ -1,0 +1,3141 @@
+{
+    "Seat:": {
+        "Seat Number": "1A",
+        "Row": "1",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "1B",
+        "Row": "1",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "1E",
+        "Row": "1",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "1F",
+        "Row": "1",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "2A",
+        "Row": "2",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "2B",
+        "Row": "2",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "2E",
+        "Row": "2",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "2F",
+        "Row": "2",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "7A",
+        "Row": "7",
+        "Plane Section": null,
+        "Available": "false",
+        "Features": [
+            "Other_"
+        ],
+        "Extensions": [
+            "Lavatory"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "7B",
+        "Row": "7",
+        "Plane Section": null,
+        "Available": "false",
+        "Features": [
+            "Other_"
+        ],
+        "Extensions": [
+            "Lavatory"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "7C",
+        "Row": "7",
+        "Plane Section": null,
+        "Available": "false",
+        "Features": [
+            "Other_"
+        ],
+        "Extensions": [
+            "Lavatory"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "7D",
+        "Row": "7",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "BlockedSeat_Permanent",
+            "Aisle"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "7E",
+        "Row": "7",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "BlockedSeat_Permanent",
+            "Center"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "7F",
+        "Row": "7",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "8A",
+        "Row": "8",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Window"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "8B",
+        "Row": "8",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Center"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "8C",
+        "Row": "8",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Aisle"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "8D",
+        "Row": "8",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "8E",
+        "Row": "8",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "8F",
+        "Row": "8",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "9A",
+        "Row": "9",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "9B",
+        "Row": "9",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "9C",
+        "Row": "9",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "9D",
+        "Row": "9",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "9E",
+        "Row": "9",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "9F",
+        "Row": "9",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "10A",
+        "Row": "10",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "10B",
+        "Row": "10",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "10C",
+        "Row": "10",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "10D",
+        "Row": "10",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "10E",
+        "Row": "10",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "10F",
+        "Row": "10",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "11A",
+        "Row": "11",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "11B",
+        "Row": "11",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "11C",
+        "Row": "11",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "11D",
+        "Row": "11",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "11E",
+        "Row": "11",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "11F",
+        "Row": "11",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "12A",
+        "Row": "12",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "12B",
+        "Row": "12",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "12C",
+        "Row": "12",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "12D",
+        "Row": "12",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "12E",
+        "Row": "12",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "12F",
+        "Row": "12",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "14A",
+        "Row": "14",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "14B",
+        "Row": "14",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2600",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "14C",
+        "Row": "14",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "14D",
+        "Row": "14",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "14E",
+        "Row": "14",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2600",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "14F",
+        "Row": "14",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "15A",
+        "Row": "15",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "15B",
+        "Row": "15",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2600",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "15C",
+        "Row": "15",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "15D",
+        "Row": "15",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "15E",
+        "Row": "15",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2600",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "15F",
+        "Row": "15",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "20A",
+        "Row": "20",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "20B",
+        "Row": "20",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Center"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "20C",
+        "Row": "20",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "20D",
+        "Row": "20",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "20E",
+        "Row": "20",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Center"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "20F",
+        "Row": "20",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window"
+        ],
+        "Extensions": [
+            "Limited Recline",
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "21A",
+        "Row": "21",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Overwing",
+            "Window"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "21B",
+        "Row": "21",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Overwing",
+            "Center"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "21C",
+        "Row": "21",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Overwing",
+            "Aisle"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "21D",
+        "Row": "21",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Overwing",
+            "Aisle"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "21E",
+        "Row": "21",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Overwing",
+            "Center"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "21F",
+        "Row": "21",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Overwing",
+            "Window"
+        ],
+        "Extensions": [
+            null,
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "22A",
+        "Row": "22",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "22B",
+        "Row": "22",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "22C",
+        "Row": "22",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "22D",
+        "Row": "22",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "22E",
+        "Row": "22",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "22F",
+        "Row": "22",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "23A",
+        "Row": "23",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "23B",
+        "Row": "23",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "BlockedSeat_Permanent",
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "23C",
+        "Row": "23",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Other_",
+            "BlockedSeat_Permanent",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "23D",
+        "Row": "23",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "23E",
+        "Row": "23",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "23F",
+        "Row": "23",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "24A",
+        "Row": "24",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "24B",
+        "Row": "24",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "24C",
+        "Row": "24",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "24D",
+        "Row": "24",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "24E",
+        "Row": "24",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Overwing",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "24F",
+        "Row": "24",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Overwing",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "25A",
+        "Row": "25",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "25B",
+        "Row": "25",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "BlockedSeat_Permanent",
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "25C",
+        "Row": "25",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "BlockedSeat_Permanent",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "25D",
+        "Row": "25",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "25E",
+        "Row": "25",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "25F",
+        "Row": "25",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "26A",
+        "Row": "26",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "26B",
+        "Row": "26",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "26C",
+        "Row": "26",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "26D",
+        "Row": "26",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "4200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "26E",
+        "Row": "26",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "26F",
+        "Row": "26",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Other_",
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            "Preferred",
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Preferred",
+        "Price": "2700",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "27A",
+        "Row": "27",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "27B",
+        "Row": "27",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "27C",
+        "Row": "27",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "27D",
+        "Row": "27",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "27E",
+        "Row": "27",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "27F",
+        "Row": "27",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "28A",
+        "Row": "28",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "28B",
+        "Row": "28",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "28C",
+        "Row": "28",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "28D",
+        "Row": "28",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "28E",
+        "Row": "28",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "28F",
+        "Row": "28",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "29A",
+        "Row": "29",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "29B",
+        "Row": "29",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "29C",
+        "Row": "29",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "29D",
+        "Row": "29",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "29E",
+        "Row": "29",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "29F",
+        "Row": "29",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "30A",
+        "Row": "30",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "30B",
+        "Row": "30",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "30C",
+        "Row": "30",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "30D",
+        "Row": "30",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "30E",
+        "Row": "30",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "30F",
+        "Row": "30",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "31A",
+        "Row": "31",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "31B",
+        "Row": "31",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "31C",
+        "Row": "31",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "31D",
+        "Row": "31",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "31E",
+        "Row": "31",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "31F",
+        "Row": "31",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "32A",
+        "Row": "32",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "32B",
+        "Row": "32",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "32C",
+        "Row": "32",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "32D",
+        "Row": "32",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "32E",
+        "Row": "32",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "32F",
+        "Row": "32",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "34A",
+        "Row": "34",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "34B",
+        "Row": "34",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "34C",
+        "Row": "34",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "34D",
+        "Row": "34",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "34E",
+        "Row": "34",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "34F",
+        "Row": "34",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "35A",
+        "Row": "35",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "35B",
+        "Row": "35",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "35C",
+        "Row": "35",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "35D",
+        "Row": "35",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "35E",
+        "Row": "35",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "35F",
+        "Row": "35",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "36A",
+        "Row": "36",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "36B",
+        "Row": "36",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "36C",
+        "Row": "36",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "36D",
+        "Row": "36",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "36E",
+        "Row": "36",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "36F",
+        "Row": "36",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "37A",
+        "Row": "37",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "37B",
+        "Row": "37",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "37C",
+        "Row": "37",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "37D",
+        "Row": "37",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "37E",
+        "Row": "37",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "37F",
+        "Row": "37",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "38A",
+        "Row": "38",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "38B",
+        "Row": "38",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "38C",
+        "Row": "38",
+        "Plane Section": "Left",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "38D",
+        "Row": "38",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Aisle",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1800",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "38E",
+        "Row": "38",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "38F",
+        "Row": "38",
+        "Plane Section": "Right",
+        "Available": "true",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1300",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "39A",
+        "Row": "39",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Window",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "39B",
+        "Row": "39",
+        "Plane Section": "Center",
+        "Available": "true",
+        "Features": [
+            "Center",
+            "Other_"
+        ],
+        "Extensions": [
+            null,
+            "Chargeable"
+        ],
+        "Code Context": "Economy",
+        "Price": "1200",
+        "Currency Code": "USD"
+    }
+}{
+    "Seat:": {
+        "Seat Number": "39C",
+        "Row": "39",
+        "Plane Section": "Left",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "39D",
+        "Row": "39",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Aisle"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "39E",
+        "Row": "39",
+        "Plane Section": "Center",
+        "Available": "false",
+        "Features": [
+            "Center"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}{
+    "Seat:": {
+        "Seat Number": "39F",
+        "Row": "39",
+        "Plane Section": "Right",
+        "Available": "false",
+        "Features": [
+            "Window"
+        ],
+        "Extensions": [
+            null
+        ],
+        "Code Context": null,
+        "Price": null,
+        "Currency Code": null
+    }
+}
